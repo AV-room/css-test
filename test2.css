@@ -10,4 +10,5 @@ body {
 src-otp-input {
    --src-btn-bg-color: magenta;
    --src-btn-text-color: darkmagenta;
+   --src-btn-border-radius: 20px;
 }
