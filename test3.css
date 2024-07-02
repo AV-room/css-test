@@ -1,0 +1,13 @@
+body {
+  font-family: monospace;
+}
+
+.zeal-button.zeal-button-primary {
+  background-color: magenta;
+  border-radius: 20px;
+}
+
+src-otp-input {
+   --src-btn-bg-color: magenta;
+   --src-btn-text-color: darkmagenta;
+}
