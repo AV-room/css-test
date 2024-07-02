@@ -1,4 +1,8 @@
-:root, body {
+:root {
+  --src-btn-bg-color: magenta;
+}
+
+body {
   --src-btn-bg-color: magenta;
 }
 
