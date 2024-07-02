@@ -1,5 +1,6 @@
 :root {
   --src-btn-bg-color: magenta;
+  --src-btn-text-color: darkmagenta;
 }
 
 body {
@@ -13,5 +14,6 @@ body {
 
 src-otp-input {
    --src-btn-bg-color: lime;
+/*    --src-btn-text-color: darkgreen; */
 }
 
