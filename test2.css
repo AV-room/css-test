@@ -25,6 +25,6 @@ body {
 
 src-otp-input {
    --src-btn-bg-color: var(--pn-btn-bg-color);
-   --src-btn-text-color: darkgreen;
+   --src-btn-text-color: var(--pn-btn-text-color);
 }
 
