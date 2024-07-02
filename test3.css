@@ -1,6 +1,7 @@
 :root {
   --pn-btn-bg-color: magenta;
   --pn-btn-text-color: darkmagenta;
+  --pn-btn-border-radius: 20px;
 }
 
 body {
@@ -9,11 +10,12 @@ body {
 
 .zeal-button.zeal-button-primary {
   background-color: var(--pn-btn-bg-color);
-  border-radius: 20px;
+  border-radius: var(--pn-btn-border-radius);
 }
 
 src-otp-input {
    --src-btn-bg-color: var(--pn-btn-bg-color);
    --src-btn-text-color: var(--pn-btn-text-color);
+   --src-btn-border-radius: var(--pn-btn-border-radius);
 }
 
