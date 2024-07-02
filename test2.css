@@ -4,4 +4,5 @@ body {
 
 .zeal-button.zeal-button-primary {
   background-color: magenta;
+  border-radius: 20px;
 }
