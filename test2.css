@@ -1,6 +1,6 @@
 :root {
-  --src-btn-bg-color: magenta;
-  --src-btn-text-color: darkmagenta;
+  --pn-btn-bg-color: magenta;
+  --pn-btn-text-color: darkmagenta;
 }
 
 body {
@@ -12,8 +12,14 @@ body {
   border-radius: 20px;
 }
 
-src-otp-input {
+/* src-otp-input {
    --src-btn-bg-color: var(--src-btn-bg-color);
    --src-btn-text-color: var(--src-btn-text-color);
+}
+ */
+
+src-otp-input {
+   --src-btn-bg-color: var(--pn-btn-bg-color);
+   --src-btn-text-color: darkgreen;
 }
 
