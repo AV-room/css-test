@@ -10,6 +10,7 @@ body {
 
 .zeal-button.zeal-button-primary {
   background-color: var(--pn-btn-bg-color);
+  color: var(--pn-btn-text-color);
   border-radius: var(--pn-btn-border-radius);
 }
 
