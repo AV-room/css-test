@@ -1,6 +1,6 @@
 :root {
-  --src-btn-bg-color: magenta;
-  --src-btn-text-color: darkmagenta;
+  --pn-btn-bg-color: magenta;
+  --pn-btn-text-color: darkmagenta;
 }
 
 body {
@@ -8,14 +8,14 @@ body {
 }
 
 .zeal-button.zeal-button-primary {
-  background-color: var(--src-btn-bg-color);
+  background-color: var(--pn-btn-bg-color);
   border-radius: 20px;
 }
 
-src-otp-input {
+/* src-otp-input {
    --src-btn-bg-color: lime;
    --src-btn-text-color: darkgreen;
-}
+} */
 
 /* src-otp-input {
    --src-btn-bg-color: var(--src-btn-bg-color);
@@ -23,8 +23,8 @@ src-otp-input {
 }
  */
 
-/* src-otp-input {
+src-otp-input {
    --src-btn-bg-color: var(--pn-btn-bg-color);
    --src-btn-text-color: darkgreen;
-} */
+}
 
