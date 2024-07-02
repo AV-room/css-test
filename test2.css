@@ -10,3 +10,8 @@ body {
   background-color: var(--src-btn-bg-color);
   border-radius: 20px;
 }
+
+src-otp-input {
+   --src-btn-bg-color: lime;
+}
+
