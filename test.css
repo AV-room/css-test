@@ -1,3 +1,7 @@
-button .btn-success {
+body {
+  font-size: 20px;
+}
+
+button.btn-success {
   background-color: magenta !important;
 }
