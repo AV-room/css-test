@@ -12,17 +12,6 @@ body {
   border-radius: 20px;
 }
 
-/* src-otp-input {
-   --src-btn-bg-color: lime;
-   --src-btn-text-color: darkgreen;
-} */
-
-/* src-otp-input {
-   --src-btn-bg-color: var(--src-btn-bg-color);
-   --src-btn-text-color: var(--src-btn-text-color);
-}
- */
-
 src-otp-input {
    --src-btn-bg-color: var(--pn-btn-bg-color);
    --src-btn-text-color: var(--pn-btn-text-color);
