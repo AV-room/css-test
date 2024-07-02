@@ -7,6 +7,6 @@ body {
 }
 
 .zeal-button.zeal-button-primary {
-  background-color: --src-btn-bg-color;
+  background-color: var(--src-btn-bg-color);
   border-radius: 20px;
 }
