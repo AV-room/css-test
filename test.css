@@ -1,4 +1,14 @@
 button.btn-success {
   background-color: magenta;
   background-image: none;
+  
+  text-indent: -9999px;
+  line-height: 0; /* Collapse the original line */
+}
+
+button.btn-success::after {
+  content: "New text";
+  text-indent: 0;
+  display: block;
+  line-height: initial; /* New content takes up original line height */
 }
