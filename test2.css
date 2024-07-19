@@ -2,7 +2,7 @@ body {
   font-family: monospace;
 }
 
-.fz-paynow iframe {
+#fz-paynow iframe {
   height: 500px;
 }
 
