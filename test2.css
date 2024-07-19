@@ -7,13 +7,13 @@ body {
 }
 
 .zeal-button.zeal-button-primary {
-  background-color: magenta;
-  color: darkmagenta;
+  background-color: greenyellow;
+  color: black;
   border-radius: 20px;
 }
 
 src-otp-input {
-   --src-btn-bg-color: magenta;
-   --src-btn-text-color: darkmagenta;
+   --src-btn-bg-color: greenyellow;
+   --src-btn-text-color: black;
    --src-btn-border-radius: 20px;
 }
