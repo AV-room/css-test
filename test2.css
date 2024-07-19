@@ -2,6 +2,10 @@ body {
   font-family: monospace;
 }
 
+.fz-paynow iframe {
+  height: 500px;
+}
+
 .zeal-button.zeal-button-primary {
   background-color: magenta;
   color: darkmagenta;
