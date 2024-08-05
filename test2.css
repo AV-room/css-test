@@ -1,11 +1,3 @@
-body {
-  font-family: monospace;
-}
-
-#fz-paynow.hpp-button-show.border-red iframe {
-  height: 500px !important;
-}
-
 .zeal-button.zeal-button-primary {
   background-color: greenyellow;
   color: black;
